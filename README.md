@@ -6,3 +6,6 @@ This folder will record the basic usage of React.
 
 ## 02-learn-jsx
 This folder will record the basic usage of JSX.
+
+## 03-learn-render
+This folder will record the basic usage of render and virtual dom in React.
